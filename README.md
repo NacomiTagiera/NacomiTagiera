@@ -1,2 +1,31 @@
-Hi, my name is Jakub, I study Computer Science. I'm interested in coding and football. I'm currently learning front-end technologies such as React.js, Redux, SASS and Tailwind.css. Not only am I familiar with the basics of front-end, but also C++ and Python. I'm looking for my first job in IT (remotely or in Białystok).
-Contact: kubapawlak1051@wp.pl
+## 👋 Hi, I'm Kuba. Future **Front-end Developer**.
+
+I study Computer Science at the Białystok University of Technology. I am currently working on the development of my front-end skills. In my free time I also create simple games in Python using turtle and pygame library.
+
+### Technologies and tools that I'm familiar with: 
+
+- HTML,
+- CSS,
+- Bootstrap
+- JavaScript,
+- TypeScript,
+- React.js
+- Redux
+- Formik, Yup,
+- Material UI,
+- GIT, GitHub, GitLab,
+- Postman
+
+### 📖 I'm currently learning: 
+
+- React Query,
+- Redux Saga,
+- Axios,
+- SASS,
+- Tailwind CSS,
+- Vue.js.
+
+#### 📞 Contact:
+
+- E-mail: kubapawlak1051@wp.pl
+- [LinkedIn](https://www.linkedin.com/in/jakub-pawlak-frontend-dev/)
