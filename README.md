@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kuba. Future **Front-end Developer**.
 
-I study Computer Science at the Białystok University of Technology. I am currently working on the development of my front-end skills. In my free time I also create simple games in Python using turtle and pygame library.
+I study Computer Science at the Białystok University of Technology. I am currently working on the development of my front-end skills. In my free time I also create simple games in Python using turtle and pygame library. I'm looking for my first job in IT. 
 
 ### Technologies and tools that I'm familiar with: 
 
