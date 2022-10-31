@@ -1,29 +1,28 @@
-## 👋 Hi, I'm Kuba. Future **Front-end Developer**.
+## 👋 Hi, I'm Kuba - future **Frontend Developer**.
 
-I study Computer Science at the Białystok University of Technology. I am currently working on the development of my front-end skills. In my free time I also create simple games in Python using turtle and pygame library. I'm looking for my first job in IT. 
+I study Computer Science at the Białystok University of Technology. I had a two-month internship at NeuroSYS, during which I got familiar with React.js library. I'm lookingfor my first job in IT as Junior Frontend Developer. 
 
 ### Technologies and tools that I'm familiar with: 
 
 - HTML,
 - CSS,
-- Bootstrap
+- Bootstrap,
 - JavaScript,
 - TypeScript,
-- React.js
-- Redux
+- React.js,
+- Redux,
 - Formik, Yup,
+- react-i18next,
 - Material UI,
-- GIT, GitHub, GitLab,
-- Postman
+- GIT, GitHub, GitLab.
 
 ### 📖 I'm currently learning: 
 
+- Axios,
 - React Query,
 - Redux Saga,
-- Axios,
 - SASS,
-- Tailwind CSS,
-- Vue.js.
+- Tailwind CSS.
 
 #### 📞 Contact:
 
