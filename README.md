@@ -7,6 +7,7 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - HTML,
 - CSS,
 - Bootstrap,
+- SASS
 - JavaScript,
 - TypeScript,
 - React.js,
@@ -18,10 +19,10 @@ I study Computer Science at the Białystok University of Technology. I had a two
 
 ### 📖 I'm currently learning: 
 
+- Remix.js,
 - Axios,
 - React Query,
 - Redux Saga,
-- SASS,
 - Tailwind CSS.
 
 #### 📞 Contact:
