@@ -5,13 +5,11 @@ I study Computer Science at the Białystok University of Technology. I had a two
 ### Technologies and tools that I already know: 
 
 - HTML,
-- CSS,
-- Bootstrap,
-- SASS
-- JavaScript,
+- CSS (SCSS, Bootstrap, Tailwind),
 - TypeScript,
 - React.js,
 - Redux,
+- Redux Saga,
 - Formik, Yup,
 - react-i18next,
 - Material UI,
@@ -19,11 +17,10 @@ I study Computer Science at the Białystok University of Technology. I had a two
 
 ### 📖 I'm currently learning: 
 
-- Remix.js,
+- React Testing Library,
+- Remix JS,
 - Axios,
-- React Query,
-- Redux Saga,
-- Tailwind CSS.
+- React Query.
 
 #### 📞 Contact:
 
