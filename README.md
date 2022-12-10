@@ -13,7 +13,9 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - Formik, Yup,
 - react-i18next,
 - Material UI,
-- GIT, GitHub, GitLab.
+- GIT, GitHub, GitLab,
+- C/C++,
+- Python.
 
 ### 📖 I'm currently learning: 
 
