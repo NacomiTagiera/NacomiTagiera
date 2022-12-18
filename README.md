@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kuba - future Frontend Developer.
 
-I study Computer Science at the Białystok University of Technology. I had a two-month internship at [NeuroSYS](https://neurosys.com/blog/telemetric-system), during which I got familiar with TypeScript, React.js, Redux, Material UI, Git/GitLab and much more. I'm looking for my first job in IT as Junior Frontend Developer. 
+I study Computer Science at the Białystok University of Technology. I had a two-month internship at [NeuroSYS](https://neurosys.com/blog/telemetric-system), during which I got familiar with TypeScript, React.js, Redux, Material UI, Git/GitLab and much more. I'm looking for my first job in IT as Junior React Developer. 
 
 ### Technologies and tools that I already know: 
 
@@ -8,8 +8,8 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - CSS (SCSS, Bootstrap, Tailwind),
 - TypeScript,
 - React.js,
-- Redux,
-- Redux Saga,
+- Redux, Redux Saga,
+- Axios,
 - Formik, Yup,
 - react-i18next,
 - Material UI,
@@ -21,7 +21,6 @@ I study Computer Science at the Białystok University of Technology. I had a two
 
 - React Testing Library,
 - Remix JS,
-- Axios,
 - React Query.
 
 #### 📞 Contact:
