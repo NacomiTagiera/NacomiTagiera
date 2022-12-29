@@ -10,6 +10,7 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - React.js,
 - Redux, Redux Saga,
 - Axios,
+- React Query,
 - Formik, Yup,
 - react-i18next,
 - Material UI,
@@ -18,7 +19,6 @@ I study Computer Science at the Białystok University of Technology. I had a two
 ### 📖 I'm currently learning: 
 
 - React Testing Library,
-- React Query,
 - Remix JS.
 
 #### 📞 Contact:
