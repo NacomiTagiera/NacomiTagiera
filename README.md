@@ -18,10 +18,11 @@ I study Computer Science at the Białystok University of Technology. I had a two
 
 ### 📖 I'm currently learning: 
 
-- React Testing Library,
-- Remix JS.
+- React Testing Library,- 
+- Remix JS,
+- Vue.js.
 
 #### 📞 Contact:
 
-- E-mail: kubapawlak1051@wp.pl
+- Email: kubapawlak1051@wp.pl
 - [LinkedIn](https://www.linkedin.com/in/jakub-pawlak-frontend-dev/)
