@@ -18,7 +18,7 @@ I study Computer Science at the Białystok University of Technology. I had a two
 
 ### 📖 I'm currently learning: 
 
-- React Testing Library,- 
+- React Testing Library,
 - Remix JS,
 - Vue.js.
 
