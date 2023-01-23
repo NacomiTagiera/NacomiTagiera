@@ -8,7 +8,7 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - CSS (SCSS, Bootstrap, Tailwind),
 - TypeScript,
 - React.js,
-- Redux, Redux Saga,
+- Redux Toolkit, Redux Saga,
 - Axios,
 - React Query,
 - Formik, Yup,
