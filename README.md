@@ -14,12 +14,13 @@ I study Computer Science at the Białystok University of Technology. I had a two
 - Formik, Yup,
 - react-i18next,
 - Material UI,
+- React Testing Library,
+- Jest,
 - GIT, GitHub, GitLab.
 
 ### 📖 I'm currently learning: 
 
-- React Testing Library,
-- Jest,
+- Next.js,
 - Remix JS.
 
 #### 📞 Contact:
