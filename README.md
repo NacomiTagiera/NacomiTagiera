@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and Remix**
 
-- 📫 How to reach me **kubapawlak1051@wp.pl**
+- 📫 How to reach me: **kubapawlak1051@wp.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
