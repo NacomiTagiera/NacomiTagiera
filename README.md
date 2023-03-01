@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Next.js and Remix**
+- 🌱 I’m currently learning **Next.js and Cypress**
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
 
