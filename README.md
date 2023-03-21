@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 🔭 I'm currently working on [Kocham-Gry](https://github.com/NacomiTagiera/Kocham-Gry)
+
 - 🌱 I’m currently learning **Next.js and Cypress**.
 
 - I'm looking for a job as Junior React Developer.
