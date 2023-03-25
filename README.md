@@ -3,9 +3,9 @@
 
 - 🔭 I'm currently working on [Kocham-Gry](https://github.com/NacomiTagiera/Kocham-Gry)
 
-- 🌱 I’m currently learning **Next.js and Cypress**.
+- 🌱 I’m presently learning **Next.js and Cypress**.
 
-- I'm looking for a job as Junior React Developer.
+- I'm looking for a job as *Junior React Developer*.
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
 
