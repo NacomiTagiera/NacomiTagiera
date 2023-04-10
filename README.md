@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on [To-do-list](https://github.com/NacomiTagiera/To-do-list)
 
-- I'm looking for a job as *Junior React Developer*.
+- I'm looking for a job as *Junior Frontend Developer*.
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
 
