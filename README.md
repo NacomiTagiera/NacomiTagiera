@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m presently learning **Next.js and Cypress**.
+- 🌱 I’m presently learning [Next.js](https://nextjs.org/docs) and [Cypress](https://docs.cypress.io/guides/overview/why-cypress).
 
 - 🔭 I'm currently working on [To-do-list](https://github.com/NacomiTagiera/To-do-list)
 
