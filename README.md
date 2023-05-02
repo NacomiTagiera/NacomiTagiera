@@ -4,7 +4,7 @@
 - 🌱 I’m presently learning [GraphQL](https://graphql.org) and
 [Cypress](https://docs.cypress.io/guides/overview/why-cypress).
 
-- 🔭 I'm currently working on [To-do-list](https://github.com/NacomiTagiera/To-do-list)
+- 🔭 I'm currently working on [Password-Generator](https://github.com/NacomiTagiera/Password-Generator)
 
 - I'm looking for a job as _Junior Frontend Developer_.
 
