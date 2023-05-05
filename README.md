@@ -10,20 +10,6 @@
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
 
-<h3>Connect with me:</h3>
-<div>
-  <a href="https://linkedin.com/in/jakub-pawlak-frontend-dev" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jakub-pawlak-frontend-dev" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/kubapawlak123321" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="kubapawlak123321" height="30" width="40" />
-  </a>
-</div>
-
 <h3>Languages and Tools:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40"
@@ -52,6 +38,20 @@
     height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40"
     height="40" />
+</div>
+
+<h3>Connect with me:</h3>
+<div>
+  <a href="https://linkedin.com/in/jakub-pawlak-frontend-dev" target="blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="jakub-pawlak-frontend-dev" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/kubapawlak123321" target="blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="kubapawlak123321" height="30" width="40" />
+  </a>
 </div>
 <div align="center">
   <img
