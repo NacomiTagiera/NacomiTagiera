@@ -6,6 +6,8 @@
 
 - 💻 I'm currently working on [Todo-list](https://github.com/NacomiTagiera/To-do-list)
 
+- 👨‍🎓 I study **Computer Science** at Bialystok University of Technology
+
 - 🔎 I'm looking for a job as _Junior Frontend Developer_.
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
