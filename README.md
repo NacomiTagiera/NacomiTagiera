@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m presently learning [GraphQL](https://graphql.org) and
+- 🌱 Expanding my knowledge on [GraphQL](https://graphql.org) and
 [Cypress](https://docs.cypress.io/guides/overview/why-cypress).
 
-- 💻 I'm currently working on [Todo-list](https://github.com/NacomiTagiera/To-do-list)
+- 💻 Developing a [Todo-list](https://github.com/NacomiTagiera/To-do-list) project
 
-- 👨‍🎓 I study **Computer Science** at Bialystok University of Technology
+- 👨‍🎓 Studying **Computer Science** at the Bialystok University of Technology
 
-- 🔎 I'm looking for a job as _Junior Frontend Developer_.
+- 🔎 Seeking a position as a _Junior Frontend Developer_
 
 - 📫 How to reach me: **kubapawlak1051@wp.pl**
 
