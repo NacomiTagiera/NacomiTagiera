@@ -33,12 +33,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
     width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40"
-    height="40" />  
+    height="40" />
+  <img src="https://avatars.githubusercontent.com/u/32196900?s=40&v=4" alt="jest" width="40"
+    height="40" />
+  <img src="https://avatars.githubusercontent.com/u/49996085?s=40&v=4" alt="rtl" width="40"
+    height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40"
     height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40"
-    height="40" />
+    height="40" />  
 </div>
 
 <h3>Connect with me:</h3>
