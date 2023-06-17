@@ -6,7 +6,7 @@
 
 - 💻 Developing a [Todo-list](https://github.com/NacomiTagiera/To-do-list) project
 
-- 👨‍🎓 Studying **Computer Science** at the Bialystok University of Technology
+- 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology
 
 - 🔎 Seeking a position as a _Junior Frontend Developer_
 
