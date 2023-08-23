@@ -1,5 +1,7 @@
 <h1 align='center'>Hi, I'm Kuba 👋 - a passionate frontend developer</h1>
 
+- 💻 Developing a **Next.js Markdown Blog -** [Kocham-Gry](https://github.com/NacomiTagiera/Kocham-Gry)
+
 - 🌱 Expanding my knowledge on [Cypress](https://docs.cypress.io/guides/overview/why-cypress).
 
 - 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology
