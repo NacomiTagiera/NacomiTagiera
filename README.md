@@ -2,7 +2,7 @@
 
 - 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list)
 
-- 🌱 Expanding my knowledge on [Cypress](https://docs.cypress.io/guides/overview/why-cypress).
+- 🌱 Expanding my knowledge on [Cypress](https://docs.cypress.io/guides/overview/why-cypress) and [GraphQL](https://graphql.org).
 
 - 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology
 
