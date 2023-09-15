@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Kuba 👋 - a passionate frontend developer</h1>
 
-- 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list)
+- 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
 
 - 🌱 Expanding my knowledge on [Cypress](https://docs.cypress.io/guides/overview/why-cypress) and [GraphQL](https://graphql.org).
 
