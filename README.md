@@ -2,7 +2,7 @@
 
 - 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
 
-- 🌱 Expanding my knowledge on [Cypress](https://docs.cypress.io/guides/overview/why-cypress) and [Oracle SQL](https://www.oracletutorial.com/).
+- 🌱 Expanding my knowledge on [Prisma](https://www.prisma.io/docs) and [Oracle SQL](https://www.oracletutorial.com/).
 
 - 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology
 
