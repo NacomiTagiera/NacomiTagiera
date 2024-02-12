@@ -2,9 +2,9 @@
 
 - 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
 
-- 🌱 Expanding my knowledge on [T3 stack](https://create.t3.gg/en/introduction) and [Oracle SQL](https://www.oracletutorial.com/).
+- 🌱 Expanding my knowledge on [tRPC](https://trpc.io/) and [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).
 
-- 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology (*3rd semester*)
+- 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology (*4th semester*)
 
 - 🔎 Seeking a position as a _Junior Frontend Developer_
 
