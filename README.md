@@ -39,6 +39,7 @@
   ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=white&logo=eslint)
   ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logoColor=white&logo=prettier)
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logoColor=white&logo=npm)
+  ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logoColor=white&logo=pnpm)
 
   ---
 
