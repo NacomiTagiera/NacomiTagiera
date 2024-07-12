@@ -2,9 +2,9 @@
 
 - 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
 
-- 🌱 Expanding my knowledge on [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) and [PL/SQL](https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/overview.html#GUID-17166AA4-14DC-48A6-BE92-3FC758DAA940)
+- 🌱 Expanding my knowledge on [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) and [AWS](https://docs.aws.amazon.com/?nc2=h_ql_doc_do)
 
-- 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology (*4th semester*)
+- 👨‍🎓 Studying **Computer Science and Econometrics** at the Bialystok University of Technology (*5th semester*)
 
 - 🔎 Seeking a position as a _Junior Frontend Developer_
 
