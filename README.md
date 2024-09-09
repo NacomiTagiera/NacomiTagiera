@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Kuba 👋 - a passionate frontend developer</h1>
 
-- 💻 Developing a **Next.js Fullstack** [Todo-list](https://github.com/NacomiTagiera/To-do-list) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
+- 💻 Developing a [Learning Management System](https://github.com/KosakChess/Kosak-Chess-Courses) and a **Next.js GraphQL** [Ecommerce Website](https://github.com/NacomiTagiera/next13masters)
 
 - 🌱 Expanding my knowledge on [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) and [AWS](https://docs.aws.amazon.com/?nc2=h_ql_doc_do)
 
