@@ -4,7 +4,7 @@
 
 - 🌱 Expanding my knowledge on [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) and [AWS](https://docs.aws.amazon.com/?nc2=h_ql_doc_do)
 
-- 👨‍🎓 Studying **Computer Science and Econometrics** at the Białystok University of Technology (*6th semester*)
+- 👨‍🎓 Studying **Computer Science and Econometrics** at the Białystok University of Technology (*7th semester*)
 
 - 🔎 Seeking a position as a _Junior Frontend Developer_
 
